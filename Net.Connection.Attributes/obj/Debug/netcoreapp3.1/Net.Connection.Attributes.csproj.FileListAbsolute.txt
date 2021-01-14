@@ -1,0 +1,17 @@
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.Connection.Attributes\bin\Debug\netcoreapp3.1\Net.Connection.Attributes.deps.json
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.Connection.Attributes\bin\Debug\netcoreapp3.1\Net.Connection.Attributes.dll
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.Connection.Attributes\bin\Debug\netcoreapp3.1\Net.Connection.Attributes.pdb
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.Connection.Attributes\obj\Debug\netcoreapp3.1\Net.Connection.Attributes.AssemblyInfoInputs.cache
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.Connection.Attributes\obj\Debug\netcoreapp3.1\Net.Connection.Attributes.AssemblyInfo.cs
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.Connection.Attributes\obj\Debug\netcoreapp3.1\Net.Connection.Attributes.csproj.CoreCompileInputs.cache
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.Connection.Attributes\obj\Debug\netcoreapp3.1\Net.Connection.Attributes.dll
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.Connection.Attributes\obj\Debug\netcoreapp3.1\Net.Connection.Attributes.pdb
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.Connection.Attributes\obj\Debug\netcoreapp3.1\Net.Connection.Attributes.csprojAssemblyReference.cache
+C:\Backend\CSFE_Venta_BackEnd\Net.Connection.Attributes\bin\Debug\netcoreapp3.1\Net.Connection.Attributes.deps.json
+C:\Backend\CSFE_Venta_BackEnd\Net.Connection.Attributes\bin\Debug\netcoreapp3.1\Net.Connection.Attributes.dll
+C:\Backend\CSFE_Venta_BackEnd\Net.Connection.Attributes\bin\Debug\netcoreapp3.1\Net.Connection.Attributes.pdb
+C:\Backend\CSFE_Venta_BackEnd\Net.Connection.Attributes\obj\Debug\netcoreapp3.1\Net.Connection.Attributes.AssemblyInfoInputs.cache
+C:\Backend\CSFE_Venta_BackEnd\Net.Connection.Attributes\obj\Debug\netcoreapp3.1\Net.Connection.Attributes.AssemblyInfo.cs
+C:\Backend\CSFE_Venta_BackEnd\Net.Connection.Attributes\obj\Debug\netcoreapp3.1\Net.Connection.Attributes.csproj.CoreCompileInputs.cache
+C:\Backend\CSFE_Venta_BackEnd\Net.Connection.Attributes\obj\Debug\netcoreapp3.1\Net.Connection.Attributes.dll
+C:\Backend\CSFE_Venta_BackEnd\Net.Connection.Attributes\obj\Debug\netcoreapp3.1\Net.Connection.Attributes.pdb

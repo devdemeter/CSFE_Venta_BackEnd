@@ -1,0 +1,17 @@
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.CrossCotting\bin\Debug\netcoreapp3.1\Net.CrossCotting.deps.json
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.CrossCotting\bin\Debug\netcoreapp3.1\Net.CrossCotting.dll
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.CrossCotting\bin\Debug\netcoreapp3.1\Net.CrossCotting.pdb
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.CrossCotting\obj\Debug\netcoreapp3.1\Net.CrossCotting.AssemblyInfoInputs.cache
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.CrossCotting\obj\Debug\netcoreapp3.1\Net.CrossCotting.AssemblyInfo.cs
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.CrossCotting\obj\Debug\netcoreapp3.1\Net.CrossCotting.dll
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.CrossCotting\obj\Debug\netcoreapp3.1\Net.CrossCotting.pdb
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.CrossCotting\obj\Debug\netcoreapp3.1\Net.CrossCotting.csproj.CoreCompileInputs.cache
+D:\NetCoreCSFE\CSFE_Venta_BackEnd\Net.CrossCotting\obj\Debug\netcoreapp3.1\Net.CrossCotting.csprojAssemblyReference.cache
+C:\Backend\CSFE_Venta_BackEnd\Net.CrossCotting\bin\Debug\netcoreapp3.1\Net.CrossCotting.deps.json
+C:\Backend\CSFE_Venta_BackEnd\Net.CrossCotting\bin\Debug\netcoreapp3.1\Net.CrossCotting.dll
+C:\Backend\CSFE_Venta_BackEnd\Net.CrossCotting\bin\Debug\netcoreapp3.1\Net.CrossCotting.pdb
+C:\Backend\CSFE_Venta_BackEnd\Net.CrossCotting\obj\Debug\netcoreapp3.1\Net.CrossCotting.AssemblyInfoInputs.cache
+C:\Backend\CSFE_Venta_BackEnd\Net.CrossCotting\obj\Debug\netcoreapp3.1\Net.CrossCotting.AssemblyInfo.cs
+C:\Backend\CSFE_Venta_BackEnd\Net.CrossCotting\obj\Debug\netcoreapp3.1\Net.CrossCotting.csproj.CoreCompileInputs.cache
+C:\Backend\CSFE_Venta_BackEnd\Net.CrossCotting\obj\Debug\netcoreapp3.1\Net.CrossCotting.dll
+C:\Backend\CSFE_Venta_BackEnd\Net.CrossCotting\obj\Debug\netcoreapp3.1\Net.CrossCotting.pdb

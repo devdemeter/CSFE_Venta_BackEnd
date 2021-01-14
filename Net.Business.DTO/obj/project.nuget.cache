@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/pd6NXZLDDD43eRcKhF3TAIUBOinyAajmBlb0x/gKRK9lWy8TdI978ObmG5ItFtzDXkkTKeUrdw+gDXnTeUQA==",
+  "success": true,
+  "projectFilePath": "C:\\Backend\\CSFE_Venta_BackEnd\\Net.Business.DTO\\Net.Business.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JCarhuachuco\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
