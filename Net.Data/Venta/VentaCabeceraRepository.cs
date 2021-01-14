@@ -7,6 +7,7 @@ namespace Net.Data
 {
     public class VentaCabeceraRepository : RepositoryBase<BE_VentaCabecera>, IVentaCabeceraRepository
     {
+        //sample
         const string DB_ESQUEMA = "";
         const string SP_GET = DB_ESQUEMA + "Sp_VentasCabecera_Consulta";
 
